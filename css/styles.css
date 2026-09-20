@@ -360,6 +360,12 @@ a {
   gap: 2.4rem 3.5rem;
 }
 
+.footer__social {
+  display: flex;
+  align-items: center;
+  gap: 2.4rem;
+}
+
 .icon-link {
   display: flex;
   flex-direction: column;
